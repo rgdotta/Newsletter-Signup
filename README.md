@@ -1,5 +1,5 @@
 # Newsletter-Signup
-Newsletter signup page.
+Newsletter signup page wrote in node.js.
 
 ![](images/newsletterSign.png)
 
