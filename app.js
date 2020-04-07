@@ -37,7 +37,7 @@ app.post('/', (req, res) => {
 
     const options = {
         method: "POST",
-        auth: "rafa1:bd14a69fc534067350994727f934a62d-us19"
+        auth: "//mailchimp-key//"
     }
 
     const request = https.request(url, options, (response) => {
