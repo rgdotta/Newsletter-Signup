@@ -1,5 +1,5 @@
 # Newsletter-Signup
-Newsletter signup page wrote in node.js. Don't forget to change your API key and url in the app.js file.
+Newsletter signup page wrote in node.js. Don't forget to change your API key and campaign url in the app.js file.
 
 ![](images/newsletterSign.png)
 
