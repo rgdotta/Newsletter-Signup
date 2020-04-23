@@ -10,3 +10,4 @@ The info will be saved on Mailchimp:
 ![](images/mailchimp.png)
 
 To try it out you have to download express, bodyParser and request modules.
+//
